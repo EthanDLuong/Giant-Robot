@@ -46,44 +46,100 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   easyDisasters:
-  - name: 
+  - name: Minus Resource - Theft
     probability: 0
     message: 
-    sound: {fileID: 0}
-  - name: 
+    sound: {fileID: 8300000, guid: ffc58a2c8167e3242b7e3b010be35ff3, type: 3}
+  - name: Replacement - Wrong Shipment
     probability: 0
     message: 
-    sound: {fileID: 0}
-  - name: 
+    sound: {fileID: 8300000, guid: f130fa9bb1322c74e87dde378f3da3d4, type: 3}
+  - name: Minus Time - Deadline Shrinks
     probability: 0
     message: 
-    sound: {fileID: 0}
+    sound: {fileID: 8300000, guid: db6db4dfcb9ae9e4ba99932527f2a66f, type: 3}
+  - name: Minus Action - Office Party!
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 0b8a3f34cf4c2ba4aac416086c8a9129, type: 3}
+  - name: Blockade - Traffic Jam
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 748da7bb158f1e241b78e2e08e501d0b, type: 3}
+  - name: Bank - Crypto Scam
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: bcdbe52fcfb89bc4d9306d8f5ceec7ea, type: 3}
+  - name: Revert - System Bugs
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 1a4ae626d0a5d9a4f8342bd561c65d96, type: 3}
   mediumDisasters:
-  - name: 
+  - name: Minus Resource - Taxation Without Representation
     probability: 0
     message: 
-    sound: {fileID: 0}
-  - name: 
+    sound: {fileID: 8300000, guid: 642f031e6cb687448a53aae36f75312c, type: 3}
+  - name: Minus Resource - Emergency Resource Regroup
     probability: 0
     message: 
-    sound: {fileID: 0}
-  - name: 
+    sound: {fileID: 8300000, guid: 2300c3847d330a94685c79cc6b4399f1, type: 3}
+  - name: Restriction - Full Storage
     probability: 0
     message: 
-    sound: {fileID: 0}
+    sound: {fileID: 8300000, guid: 9a22e80631a50724c9e3b2ebbcc8b729, type: 3}
+  - name: Minus Time - Very Low Battery
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 2d54d9e0319bf19428592f5cd316cb56, type: 3}
+  - name: Minus Action - Sent Home Early
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 3bf0b0ab1452ce149bc87c1ac937c517, type: 3}
+  - name: Blockade - Union Blockade
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 0764c43104359c64e93398a9290d730b, type: 3}
+  - name: Bank - Recession
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 8a33a39fc45f1f247a1e0e43719c82dd, type: 3}
+  - name: Revert - Electromagnetic Storm
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: b86f5b9e1d790b947af130e87b678033, type: 3}
   catastrophicDisasters:
-  - name: 
+  - name: Minus Resource - Robo-Revolution!
     probability: 0
     message: 
-    sound: {fileID: 0}
-  - name: 
+    sound: {fileID: 8300000, guid: c3da92c5b6f34ad45ac6f1fba802bb31, type: 3}
+  - name: Minus Time - Wormhole!!!
     probability: 0
     message: 
-    sound: {fileID: 0}
-  - name: 
+    sound: {fileID: 8300000, guid: 011e508384f4db34fa4e8e87f195ec2a, type: 3}
+  - name: Minus Action - Company Downsizing
     probability: 0
     message: 
-    sound: {fileID: 0}
+    sound: {fileID: 8300000, guid: c8b6b343a6642784da353741cca7f75a, type: 3}
+  - name: Minus Action - Layoffs
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 4409f2482412896488b7c75262ea702b, type: 3}
+  - name: Blockade - Flooding
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 8a138de7e47991d4d9f8cbbb44357f0c, type: 3}
+  - name: Blockade - Asteroid Storm!
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 5f6a5895c888f3b4c95a2800303fbdf9, type: 3}
+  - name: Bank - Depression
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: 5b6302a4121f82649a36df255b661e96, type: 3}
+  - name: Revert - Earthquake!!!
+    probability: 0
+    message: 
+    sound: {fileID: 8300000, guid: d1361616556dfc34ead174473fee1dae, type: 3}
 --- !u!82 &244465346384805357
 AudioSource:
   m_ObjectHideFlags: 0
